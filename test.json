@@ -1,0 +1,25 @@
+{
+    "spec": 1,
+    "name": "Montserrat",
+    "previewText": "definition of insanity",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://raw.githubusercontent.com/google/fonts/892dc85555606db5a08545c7874a4dc561d3ce50/apache/roboto/static/Roboto-Regular.ttf",
+        "ggsans-Bold": "Montserrat-Bold.ttf",
+        "ggsans-BoldItalic": "Montserrat-BoldItalic.ttf",
+        "ggsans-ExtraBold": "Montserrat-ExtraBold.ttf",
+        "ggsans-ExtraBoldItalic": "Montserrat-ExtraBoldItalic.ttf",
+        "ggsans-Medium": "Montserrat-Medium.ttf",
+        "ggsans-MediumItalic": "Montserrat-MediumItalic.ttf",
+        "ggsans-Normal": "Montserrat-Regular.ttf",
+        "ggsans-NormalItalic": "Montserrat-Italic.ttf",
+        "ggsans-Semibold": "Montserrat-SemiBold.ttf",
+        "ggsans-SemiboldItalic": "Montserrat-SemiBoldItalic.ttf",
+        "NotoSans-Bold": "Montserrat-Bold.ttf",
+        "NotoSans-ExtraBold": "Montserrat-ExtraBold.ttf",
+        "NotoSans-Medium": "Montserrat-Medium.ttf",
+        "NotoSans-Normal": "Montserrat-Regular.ttf",
+        "NotoSans-NormalItalic": "Montserrat-Italic.ttf",
+        "NotoSans-Semibold": "Montserrat-SemiBold.ttf",
+        "SourceCodePro-Semibold": "https://raw.githubusercontent.com/google/fonts/892dc85555606db5a08545c7874a4dc561d3ce50/apache/roboto/static/Roboto-Regular.ttf"
+    }
+}
